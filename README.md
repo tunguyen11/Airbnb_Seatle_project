@@ -30,5 +30,3 @@ These data can be downloaded from http://insideairbnb.com/get-the-data.html
 #### 3. I found that the rental price listing is highest in June, July, and August. In these months, the availability of rental listing is also lowest. This is possibly due to the high demand of room during the traveling season in Seattle during summer 
 
 
-## Licensing, Authors, Acknowledgements, Authenticity. 
-I confirm that this project is done solely by myself.
